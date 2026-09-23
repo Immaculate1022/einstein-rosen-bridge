@@ -10,6 +10,11 @@ This project models how negative energy density can be maintained at a wormhole 
 - **Self-Trapping Potential** — A localized potential that creates a restoring force
 - **Non-Canonical Kinetic Term** — A higher-order kinetic coupling that prevents wave dispersion
 
+
+## Related Theory
+
+- [Quantum Vacuum Mechanics & Topological Stability](QUANTUM_VACUUM_MECHANICS.md) — Theoretical framework for negative blank space and sustained wormhole openings (k-essence coupling, PT-symmetric phase locking, topological Casimir pressure), by Gregory Scott Davis.
+
 ## Physics
 
 ### The Problem
